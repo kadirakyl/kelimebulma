@@ -4,8 +4,8 @@ let words = [
         hint: "Dağılma,bulaşma"
     },
     {
-        word: "itidal",
-        hint: "Ölçülülük, soğukkanlılık"
+        word: "munis",
+        hint: "Cana yakın,uysal"
     },
     {
         word: "Vasl",
@@ -88,7 +88,7 @@ let words = [
         hint: "Büyülü, etkileyici"
     },
     {
-        word: "ihtiras",
-        hint: "Aşırı güçlü istek, tutku"
+        word: "feriştah",
+        hint: "Bir işi en iyi yapan kimse"
     },
 ]
